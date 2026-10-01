@@ -18,6 +18,7 @@ macOS 桌面悬浮歌词工具。自动识别 Apple Music 与 Spotify 正在播�
 - [隐私说明](#隐私说明)
 - [常见问题](#常见问题)
 - [更新日志](#更新日志)
+- [关于](#关于)
 - [致谢](#致谢)
 
 ## 功能特性
@@ -95,10 +96,26 @@ macOS 桌面悬浮歌词工具。自动识别 Apple Music 与 Spotify 正在播�
 
 完整版本记录见 [CHANGELOG.md](CHANGELOG.md)。
 
+## 关于
+
+| | |
+| --- | --- |
+| 应用 | 一起唱 · SingAlong |
+| 当前版本 | v1.1.3 |
+| 开发者 | Woolpixels |
+| 官网 | [woolpixels.cc](https://woolpixels.cc/) |
+| GitHub | [@woolpixels](https://github.com/woolpixels) |
+| 小红书 | [Woolpixels](https://xhslink.cn/o/7EEkbW1Uyh8) |
+| 邮箱 | odyssey.moment@outlook.com |
+
+感谢使用 一起唱。使用中有任何问题或建议，欢迎随时联系。
+
+仅供个人学习与交流，请勿用于商业用途。
+
 ## 致谢
 
 歌词数据来自 [LRCLIB](https://lrclib.net/)。
 
 ---
 
-Copyright © 2026 Woolpixels. All rights reserved.
+Copyright © 2026 Woolpixels
