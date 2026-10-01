@@ -43,8 +43,7 @@ macOS 桌面悬浮歌词工具。自动识别 Apple Music 与 Spotify 正在播�
 
 1. 前往 [Releases](https://github.com/woolpixels/SingAlong-releases/releases/latest) 下载最新版安装包（`.zip`）。
 2. 解压后将「一起唱.app」拖入「应用程序」文件夹。
-3. 首次打开时，若系统提示无法验证开发者，请在 Finder 中右键点击应用，选择「打开」。
-4. macOS 会请求「自动化」权限，用于读取 Apple Music / Spotify 的当前播放信息，请选择**允许**。
+3. 首次运行时，macOS 会请求「自动化」权限，用于读取 Apple Music / Spotify 的当前播放信息，请选择**允许**。
 
 ## 使用方法
 
@@ -101,15 +100,14 @@ macOS 桌面悬浮歌词工具。自动识别 Apple Music 与 Spotify 正在播�
 | | |
 | --- | --- |
 | 应用 | 一起唱 · SingAlong |
-| 当前版本 | v1.1.3 |
+| 当前版本 | v1.1.4 |
 | 开发者 | Woolpixels |
 | 官网 | [woolpixels.cc](https://woolpixels.cc/) |
 | GitHub | [@woolpixels](https://github.com/woolpixels) |
 | 小红书 | [Woolpixels](https://xhslink.cn/o/7EEkbW1Uyh8) |
 | 邮箱 | odyssey.moment@outlook.com |
 
-感谢使用 一起唱。使用中有任何问题或建议，欢迎随时联系。
-
+有任何问题或建议，欢迎随时联系。  
 仅供个人学习与交流，请勿用于商业用途。
 
 ## 致谢
